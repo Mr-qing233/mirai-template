@@ -3,10 +3,10 @@ plugins {
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.serialization") version kotlinVersion
 
-    id("net.mamoe.mirai-console") version "2.14.0"
+    id("net.mamoe.mirai-console") version "2.16.0"
 }
 
-group = "me.kiyotsuki.mirai.plugin"
+group = "org.example.plugin"
 version = "0.0.1"
 
 repositories {
